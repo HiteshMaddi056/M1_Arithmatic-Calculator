@@ -4,9 +4,7 @@
 
 
 # Introduction:-   
-Simple calculator works only for integer inputs. This project allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project
-which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas .However, the input has to be in the form "number1 operator1 number2
-"(i.e 2+4).    
+ Arithmatic-Calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators can handle exponent ial operations, roots, logarithm s, trigonometric functions, and hyperbolic functions. Internally, some calculators actually perform all of these functions by repeated processes of addition.
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the
 order of precedence logic.
