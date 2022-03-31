@@ -10,7 +10,7 @@ The input includes the command such as we can give numbers based on the operatio
 order of precedence logic.
   
 
-#  Activity Based Learning
+# SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score | code grade |
 |---------|------------|-------------|--------------------|------------
 |[![C/C++ CI](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/c++.yml/badge.svg)](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/c++.yml)| [![Unit Testing - Unity](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/unity.yml)| [![Contribution Check - Git Inspector](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/codeinspector.yml)|  [![Static Code Quality- Cppcheck](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/HiteshMaddi056/M1_Arithmatic-Calculator/actions/workflows/cpp.yml) | ![Code Quality Score](https://www.code-inspector.com/project/27777/score/svg) |![Code Badge](https://www.code-inspector.com/project/27777/status/svg)
